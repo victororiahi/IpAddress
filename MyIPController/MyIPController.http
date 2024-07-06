@@ -1,0 +1,6 @@
+@MyIPController_HostAddress = http://localhost:5186
+
+GET {{MyIPController_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
